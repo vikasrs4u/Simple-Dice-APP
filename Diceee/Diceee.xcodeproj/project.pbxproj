@@ -40,6 +40,7 @@
 			children = (
 				1D1225C520718E40006C5123 /* Diceee */,
 				1D1225C420718E40006C5123 /* Products */,
+				1D87628520EB274B0021312E /* Supporting files */,
 			);
 			sourceTree = "<group>";
 		};
@@ -62,6 +63,13 @@
 				1D1225D220718E40006C5123 /* Info.plist */,
 			);
 			path = Diceee;
+			sourceTree = "<group>";
+		};
+		1D87628520EB274B0021312E /* Supporting files */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Supporting files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
