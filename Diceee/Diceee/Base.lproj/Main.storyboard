@@ -104,22 +104,14 @@
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="d1S-YI-oa9" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="57f-mG-91P"/>
-                            <constraint firstItem="lcH-nw-23t" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="6wi-AL-M5o"/>
                             <constraint firstAttribute="bottom" secondItem="d1S-YI-oa9" secondAttribute="bottom" id="7gU-bs-Wm0"/>
                             <constraint firstItem="ZQC-qz-ZHt" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="7hD-qK-kiM"/>
                             <constraint firstItem="ZQC-qz-ZHt" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="C8U-QI-l5A"/>
                             <constraint firstAttribute="trailing" secondItem="d1S-YI-oa9" secondAttribute="trailing" id="D4d-sX-iwU"/>
-                            <constraint firstItem="VQP-48-WDX" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="F3v-3k-O7X"/>
                             <constraint firstItem="lcH-nw-23t" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="GtD-hG-qei"/>
-                            <constraint firstItem="lcH-nw-23t" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="IGN-LX-coe"/>
-                            <constraint firstItem="VQP-48-WDX" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="K4u-9A-yll"/>
-                            <constraint firstItem="lcH-nw-23t" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="L0D-yG-Kub"/>
-                            <constraint firstItem="ZQC-qz-ZHt" firstAttribute="top" secondItem="lcH-nw-23t" secondAttribute="bottom" id="THK-Sp-zF7"/>
-                            <constraint firstItem="VQP-48-WDX" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="WI3-6c-s1l"/>
                             <constraint firstItem="lcH-nw-23t" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="XEu-Qo-A0y"/>
                             <constraint firstItem="ZQC-qz-ZHt" firstAttribute="top" secondItem="lcH-nw-23t" secondAttribute="bottom" id="fhE-F8-ciJ"/>
                             <constraint firstItem="VQP-48-WDX" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="irL-xj-mwm"/>
-                            <constraint firstItem="VQP-48-WDX" firstAttribute="top" secondItem="ZQC-qz-ZHt" secondAttribute="bottom" id="l55-lg-SCk"/>
                             <constraint firstItem="d1S-YI-oa9" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="n4y-zH-mNS"/>
                             <constraint firstItem="lcH-nw-23t" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="qUa-Fs-W3W"/>
                             <constraint firstItem="VQP-48-WDX" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="u1t-Db-ms0"/>
