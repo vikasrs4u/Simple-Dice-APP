@@ -1,5 +1,6 @@
 # Dice App
 A simple Dice app with two dice image view. On click of roll or when we shake our iPhone Dice is rolled. 
+Works well in both iPhone and iPad, both in landscape and potrait mode. 
 
 ## Demo Screenshots
 
